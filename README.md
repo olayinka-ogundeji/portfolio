@@ -1,5 +1,3 @@
-# portfolio
-# olayinka-portfolio
 # Olayinka Ogundeji · The Catalyst VA
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://IamSalvation.github.io/olayinka-portfolio/)
